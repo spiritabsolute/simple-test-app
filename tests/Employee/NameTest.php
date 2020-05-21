@@ -1,5 +1,5 @@
 <?php
-namespace Tests\PHPUnit;
+namespace Tests\Employee;
 
 use App\Employee\Name;
 use PHPUnit\Framework\TestCase;

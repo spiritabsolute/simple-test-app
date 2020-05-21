@@ -1,5 +1,5 @@
 <?php
-namespace Tests\PHPUnit;
+namespace Tests\Employee;
 
 use App\Employee\Phone;
 use App\Employee\PhoneCollection;
